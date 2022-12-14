@@ -1,0 +1,9 @@
+div {
+    height: 200px;
+    background-color: rgb(245, 248, 244);
+    text-align: center;
+}
+
+div h1 {
+    line-height: 200px;
+}
